@@ -1,6 +1,6 @@
 # Blight-Buildings-Predictive-Analytics
 
-In this project, I have built a model to predict blight risk buildings in advance in Detroit city.
+In this project, I have applied statistical data mining models to predict blight risk buildings in advance in Detroit city.
 
 Datasets:
 ========
