@@ -1,5 +1,9 @@
 # Blight-Buildings-Predictive-Analytics
 
+Jupyter Notebook can be viewed at:
+
+https://nbviewer.jupyter.org/github/mohankgaddam/Blight-Buildings-Predictive-Analytics/blob/master/PredictiveAnalytics-Detroit_Blight_Risk_Buildings.ipynb
+
 In this project, I have applied statistical data mining models to predict blight risk buildings in advance in Detroit city.
 
 Datasets:
